@@ -16,10 +16,10 @@ Replace code from this repo manually:
 Usage
 The plugin adds commands:
 
-Get last 50 issues - ctrl+shift+alt+j
-Get issue – ctrl+alt+j prompt issue key and show it in a new tab
-Create issue –  ctrl+shift+alt+u create empty form for new issue in new tab
-Save issue – ctrl+alt+u save changes
+- Get last 50 issues - ctrl+shift+alt+j
+- Get issue – ctrl+alt+j prompt issue key and show it in a new tab
+- Create issue –  ctrl+shift+alt+u create empty form for new issue in new tab
+- Save issue – ctrl+alt+u save changes
 
 and some two-pass shortcuts:
 
